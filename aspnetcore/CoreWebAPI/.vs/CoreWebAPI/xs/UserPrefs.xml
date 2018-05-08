@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7BCCD7D5-4D2E-4447-AF0D-B141EEF68CDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreWebAPI/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="CoreWebAPI/Controllers/CalculatorController.cs" Line="1" Column="1" />
+      <File FileName="CoreWebAPI/Controllers/ValuesController.cs" Line="7" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoreWebAPI PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

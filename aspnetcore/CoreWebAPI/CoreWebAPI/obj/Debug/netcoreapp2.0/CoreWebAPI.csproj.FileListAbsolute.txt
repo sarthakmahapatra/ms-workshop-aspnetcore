@@ -1,0 +1,11 @@
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.deps.json
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.runtimeconfig.json
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.runtimeconfig.dev.json
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.dll
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/bin/Debug/netcoreapp2.0/CoreWebAPI.pdb
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.csprojResolveAssemblyReference.cache
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.csproj.CoreCompileInputs.cache
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.AssemblyInfoInputs.cache
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.AssemblyInfo.cs
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.dll
+/Users/sarthakmahapatra/Projects/ms-workshop-aspnet/aspnetcore/CoreWebAPI/CoreWebAPI/obj/Debug/netcoreapp2.0/CoreWebAPI.pdb
