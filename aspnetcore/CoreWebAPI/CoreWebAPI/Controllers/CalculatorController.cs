@@ -9,34 +9,49 @@ namespace CoreWebAPI.Controllers
     [Route("api/[controller]")]
     public class CalculatorController : Controller
     {
-        [HttpGet("add/{value1}/{value2}")]
-        public int Add(int value1, int value2)
+        [HttpPost("add")]
+        public int Add([FromBody]Value value)
         {
-            return value1 + value2;
+            return value.Value1 + value.Value2;
         }
 
-        [HttpGet("substract/{value1}/{value2}")]
-        public int Substract(int value1, int value2)
+        [HttpPost("substract")]
+        public int Substract([FromBody]Value value)
         {
-            return value1 - value2;
+            return value.Value1 - value.Value2;
         }
 
-        [HttpGet("multiply/{value1}/{value2}")]
-        public int Multiply(int value1, int value2)
+        [HttpPost("multiply")]
+        public int Multiply([FromBody]Value value)
         {
-            return value1 * value2;
+            return value.Value1 * value.Value2;
         }
 
-        [HttpGet("divide/{value1}/{value2}")]
-        public int Divide(int value1, int value2)
+        [HttpPost("divide")]
+        public int Divide([FromBody]Value value)
         {
-            return value1 / value2;
+            return value.Value1 / value.Value2;
         }
 
         [HttpGet]
         public string Get()
         {
             return "default";
+        }
+    }
+
+    public class Value
+    {
+        public int Value1
+        {
+            get;
+            set;
+
+        }  
+            public int Value2
+        {
+            get;
+            set;
         }
     }
 }
